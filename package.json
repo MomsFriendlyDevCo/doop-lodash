@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-lodash",
+  "name": "@doop/lodash",
   "version": "1.0.0",
   "description": "A lodash service for the Doop framework",
   "repository": {
