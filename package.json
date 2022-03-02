@@ -4,7 +4,7 @@
   "description": "A lodash service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-lodash.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-lodash.git"
   },
   "keywords": [
     "doop"
@@ -12,13 +12,10 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-lodash/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-lodash/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-lodash#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-lodash#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "workspaces": [
-    "../*"
-  ]
+  }
 }
